@@ -1,0 +1,20 @@
+Decision threshold: 0.641256
+Precision: 0.774194
+Recall: 0.757895
+F1: 0.765957
+ROC-AUC: 0.976802
+PR-AUC (average precision): 0.789722
+True positives: 72
+False positives: 21
+False negatives: 23
+True negatives: 56,630
+
+Classification report:
+              precision    recall  f1-score   support
+
+  Legitimate       1.00      1.00      1.00     56651
+       Fraud       0.77      0.76      0.77        95
+
+    accuracy                           1.00     56746
+   macro avg       0.89      0.88      0.88     56746
+weighted avg       1.00      1.00      1.00     56746
