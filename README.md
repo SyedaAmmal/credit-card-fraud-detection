@@ -76,6 +76,4 @@ The trained model is not stored in the repository; `02_train.py` rebuilds it. De
 - Only two model families were compared.
 - Data are from two days in 2013, so results may not carry over to current data.
 
-## Notes
 
-Built with an AI coding agent under my review, then run and checked by me.
